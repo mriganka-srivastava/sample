@@ -4,7 +4,7 @@
 
   <groupId>com.test.sample</groupId>
   <artifactId>myfirstgitsample</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>myfirstgitsample</name>
